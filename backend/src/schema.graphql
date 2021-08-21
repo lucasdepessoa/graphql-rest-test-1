@@ -1,0 +1,20 @@
+type User {
+  id: ID! 
+  name: String!
+  email: String!
+}
+
+type Query {
+  users:[User!]!
+  user(id: ID!): User
+}
+
+type Mutation {
+  createUser(name: String!, email: String!): User
+}
+
+# Define o modelo de comunicação que as requisições vão utilizar #
+# ! torna o item obrigatório, ou seja: users:[User!]! -> Quando uma query para a rota users for chamada
+# obrigatóriamente retornará um array (mesmo que seja vazio) e esse array deve conter obrigatóriamente o modelo 
+# de query definido em User
+#--#
