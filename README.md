@@ -39,7 +39,7 @@ Under development.
   <img src="backend/img/getUserByIdAndReturnByFilter.jps" width="500px;" height="100px;">
   
   For example Create User:
-  <img src="backend/img/createAndReturnId.jps" width="500px;" height="100px;">
+  <img src="https://raw.githubusercontent.com/lucasdepessoa/graphql-rest-test-1/main/backend/src/img/createAndReturnId.JPG" width="500px;" height="100px;">
 
 
 
