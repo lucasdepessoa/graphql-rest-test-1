@@ -33,13 +33,16 @@ Under development.
   For this example was made it two querys. One query to create user, and other to get all users or user by id.
 
   For example GET All users:
-  <img src="backend/img/getAllUsersPassingTheFilter.jps" width="500px;" height="100px;">
+  
+  <img src="https://raw.githubusercontent.com/lucasdepessoa/graphql-rest-test-1/main/backend/src/img/getAllUsersPassingTheFilter.jpg">
   
   For example GET User By ID:
-  <img src="backend/img/getUserByIdAndReturnByFilter.jps" width="500px;" height="100px;">
+  
+  <img src="https://raw.githubusercontent.com/lucasdepessoa/graphql-rest-test-1/main/backend/src/img/getUserByIdAndReturnByFilter.jpg">
   
   For example Create User:
-  <img src="https://raw.githubusercontent.com/lucasdepessoa/graphql-rest-test-1/main/backend/src/img/createAndReturnId.JPG" width="500px;" height="100px;">
+  
+  <img src="https://raw.githubusercontent.com/lucasdepessoa/graphql-rest-test-1/main/backend/src/img/createAndReturnId.JPG">
 
 
 
