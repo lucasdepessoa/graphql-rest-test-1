@@ -29,7 +29,19 @@ Under development.
 
 # How can i use?
  Access on the browser: 'localhost:4000/' and use the interface below:
- ... under development
+
+  For this example was made it two querys. One query to create user, and other to get all users or user by id.
+
+  For example GET All users:
+  <img src="backend/img/getAllUsersPassingTheFilter.jps" width="500px;" height="100px;">
+  
+  For example GET User By ID:
+  <img src="backend/img/getUserByIdAndReturnByFilter.jps" width="500px;" height="100px;">
+  
+  For example Create User:
+  <img src="backend/img/createAndReturnId.jps" width="500px;" height="100px;">
+
+
 
 ## Status
 Finished.
