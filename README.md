@@ -8,11 +8,6 @@ Simple REST API test, using GraphQL-yoga and mongodb locally.
 
 In this project I use the GraphQL-Yoga to create a simple REST API with MongoDb.
 
-## Layout mobile
-Under development.
-
-## Layout web
-Under development.
 
 # Technologies Used
 
@@ -20,12 +15,10 @@ Under development.
   - NodeJs
   - graphql-yoga
 
-## Front end
-  - 
-
 ## Deployment Into Production
   - Back end: localhost
   - Database: MongoDB Localhost
+
 
 # How can i use?
  Access on the browser: 'localhost:4000/' and use the interface below:
